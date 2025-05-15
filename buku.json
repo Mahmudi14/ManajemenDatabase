@@ -1,0 +1,1 @@
+[{"_id":{"$oid":"6825567488a2c02eb86c4bd0"},"isbn":"978-1234567890","judul":"Pemrograman Dasar","pengarang":"Andi Pratama","tahun_terbit":2020,"kategori":"Teknologi"},{"_id":{"$oid":"6825567488a2c02eb86c4bd1"},"isbn":"978-0987654321","judul":"Belajar MongoDB","pengarang":"Sari Dewi","tahun_terbit":2023,"kategori":"Database"}]
