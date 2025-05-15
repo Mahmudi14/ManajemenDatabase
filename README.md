@@ -1,5 +1,5 @@
 # ManajemenDatabase
 
-Nama  : Mahmuddin /n
-NIM   : D0222317
-Kelas : E2022
+**Nama**: Mahmuddin  
+**NIM**: D0222317  
+**Kelas**: E2022
